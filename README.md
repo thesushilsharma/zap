@@ -8,3 +8,8 @@ creating a basic structure or framework for a project
 - Node.js
 - NPM
 - EJS (Embedded JavaScript) / TypeScript
+- VS Code
+
+## Prerequisites
+
+- NPM Account
