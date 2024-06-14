@@ -13,3 +13,7 @@ creating a basic structure or framework for a project
 ## Prerequisites
 
 - NPM Account
+
+## License
+
+This project is provided under the MIT License. See the [LICENSE](LICENSE) file for details.
