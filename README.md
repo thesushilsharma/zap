@@ -1,6 +1,6 @@
 # zap
 
-creating a basic structure or framework for a project
+This is a boilerplate project for building an Express.js application using TypeScript and ESLint.
 
 ## Tech stack
 
