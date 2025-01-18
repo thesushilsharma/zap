@@ -14,6 +14,23 @@ This is a boilerplate project for building an Express.js application using TypeS
 
 - NPM Account
 
+## Folder Structure
+```TS
+express-generator/
+├── bin/
+│   └── cli.ts
+├── src/
+│   └── lib/
+│       ├── main.ts
+│       ├── templates/
+│       │   └── index.ts
+│       └── utils/
+│           ├── fileUtils.ts
+│           ├── npmUtils.ts
+├── package.json
+├── tsconfig.json
+└── README.md
+```
 ## Know Issues
 
 - None
