@@ -1,0 +1,42 @@
+{
+  "name": "create-zap-app",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "main": "dist/bin/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/bin/index.js",
+    "dev": "tsx bin/index.ts "
+  },
+  "keywords": [
+    "express",
+    "expressjs",
+    "nodejs",
+    "typescript",
+    "tailwindcss",
+    "eslint",
+    "cli",
+    "template",
+    "javascript",
+    "esm",
+    "ecmascript"
+  ],
+  "author": "@thesushilsharma",
+  "license": "MIT",
+  "dependencies": {
+    "@inquirer/prompts": "^7.2.3",
+    "@types/node": "^22.10.7",
+    "chalk": "^5.4.1",
+    "commander": "^13.0.0",
+    "esm": "^3.2.25",
+    "execa": "^9.5.2",
+    "ora": "^8.1.1",
+    "path": "^0.12.7",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  },
+  "bin": {
+    "create-zap-app": "./bin/index.js"
+  }
+}
