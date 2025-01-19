@@ -16,7 +16,7 @@ This is a boilerplate project for building an Express.js application using TypeS
 
 ## Folder Structure
 ```TS
-express-generator/
+create-zap-app/
 ├── bin/
 │   └── main.ts
 ├── src/
