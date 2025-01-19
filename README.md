@@ -18,10 +18,10 @@ This is a boilerplate project for building an Express.js application using TypeS
 ```TS
 express-generator/
 ├── bin/
-│   └── cli.ts
+│   └── main.ts
 ├── src/
+│   ├── index.ts
 │   └── lib/
-│       ├── main.ts
 │       ├── templates/
 │       │   └── index.ts
 │       └── utils/
